@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 84 | 17 |
+| 87 | 17 |
 
 ---
 
@@ -14,8 +14,8 @@
 
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (12)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [brute force](#brute-force) (13)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
@@ -23,11 +23,11 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (16)
 - [implementation](#implementation) (58)
-- [math](#math) (26)
+- [math](#math) (27)
 - [number theory](#number-theory) (3)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (8)
-- [strings](#strings) (15)
+- [strings](#strings) (16)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -57,6 +57,7 @@
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 750A | [New Year and Hurry](https://codeforces.com/contest/750/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/750/A%20-%20New%20Year%20and%20Hurry/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 | 2269B | [KiaKio and Squared Numbers](https://codeforces.com/contest/2269/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/2269/B%20-%20KiaKio%20and%20Squared%20Numbers/solution.cpp) |
@@ -69,6 +70,7 @@
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2267B | [Fashionable Array](https://codeforces.com/contest/2267/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/2267/B%20-%20Fashionable%20Array/solution.cpp) |
 
@@ -211,6 +213,7 @@
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
+| 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1999A | [A+B Again?](https://codeforces.com/contest/1999/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1999/A%20-%20A%2BB%20Again%3F/solution.cpp) |
@@ -261,6 +264,7 @@
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
+| 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 2267A | [Turn Into a Palindrome](https://codeforces.com/contest/2267/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/2267/A%20-%20Turn%20Into%20a%20Palindrome/solution.cpp) |
 
