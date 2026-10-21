@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 88 | 17 |
+| 89 | 17 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [*special](#special) (1)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (13)
-- [constructive algorithms](#constructive-algorithms) (8)
+- [constructive algorithms](#constructive-algorithms) (9)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
@@ -23,8 +23,8 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (16)
 - [implementation](#implementation) (58)
-- [math](#math) (27)
-- [number theory](#number-theory) (3)
+- [math](#math) (28)
+- [number theory](#number-theory) (4)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (8)
 - [strings](#strings) (16)
@@ -70,6 +70,7 @@
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1862B | [Sequence Game](https://codeforces.com/contest/1862/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1862/B%20-%20Sequence%20Game/solution.cpp) |
 | 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
@@ -212,6 +213,7 @@
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
@@ -227,6 +229,7 @@
 |---|---------|------------|----------|
 | 630A | [Again Twenty Five!](https://codeforces.com/contest/630/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/630/A%20-%20Again%20Twenty%20Five!/solution.cpp) |
 | 1238A | [Prime Subtraction](https://codeforces.com/contest/1238/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1238/A%20-%20Prime%20Subtraction/solution.cpp) |
+| 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### shortest paths
