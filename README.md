@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 94 | 17 |
+| 95 | 17 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (18)
-- [implementation](#implementation) (59)
+- [implementation](#implementation) (60)
 - [math](#math) (32)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
@@ -189,6 +189,7 @@
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
