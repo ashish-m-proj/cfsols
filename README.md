@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 98 | 18 |
+| 99 | 18 |
 
 ---
 
@@ -23,13 +23,13 @@
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (19)
-- [implementation](#implementation) (61)
+- [implementation](#implementation) (62)
 - [math](#math) (34)
 - [number theory](#number-theory) (5)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (8)
 - [strings](#strings) (16)
-- [two pointers](#two-pointers) (1)
+- [two pointers](#two-pointers) (2)
 
 ---
 
@@ -197,6 +197,7 @@
 | 1692A | [Marathon](https://codeforces.com/contest/1692/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1692/A%20-%20Marathon/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1742A | [Sum](https://codeforces.com/contest/1742/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1742/A%20-%20Sum/solution.cpp) |
+| 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 | 1807A | [Plus or Minus](https://codeforces.com/contest/1807/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1807/A%20-%20Plus%20or%20Minus/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
@@ -302,6 +303,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
+| 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/ashish-m-proj/cfsols/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.cpp) |
 
 ---
 
